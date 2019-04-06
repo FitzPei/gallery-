@@ -1,0 +1,57 @@
+body{
+	padding-top: 70px;
+}
+
+.jumbotron {
+	color: #2c3e50;
+	background: #ecf0f1;
+}
+
+.narbar-inverse {
+	background: #2c3e50;
+}
+
+.navbar-inverse .navbar-nav>li>a {
+	color: white;
+}
+
+.navbar-inverse .navbar-brand {
+	color: white;
+}
+
+.image1 {
+	background-image: url(https://images.unsplash.com/photo-1453365607868-7deed8cc7d26?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1500&q=80);
+}
+.image2 {
+	background-image: url(https://i2.wp.com/www.ohwonews.com/wp-content/uploads/2017/12/c48c48172f1ab11eceafa2b24079a593.jpg?zoom=2.625&resize=410%2C225);
+}
+.image3 {
+	background-image: url(https://i0.wp.com/www.ohwonews.com/wp-content/uploads/2018/01/584985332f9f30dc0358deb1d86c2a5d.jpg?zoom=2.625&resize=410%2C256);
+}
+.image4 {
+	background-image: url(http://www.desktx.com/d/file/wallpaper/animals/20161013/aba97aeb565998d13c88a71efd946cd4.jpg);
+}
+.image5 {
+	background-image: url(http://www.desktx.com/d/file/wallpaper/animals/20161013/99687812e35d5da311c6835e97bca1d4.jpg);
+}
+.image6 {
+	background-image: url(http://www.desktx.com/d/file/wallpaper/animals/20161013/f8ff06ef05f72cabfbaf906f8c360e8b.jpg);
+}
+.image7 {
+	background-image: url(https://scontent.ftpe4-2.fna.fbcdn.net/v/t1.0-9/50969892_1842177175887152_8152795036816244736_n.jpg?_nc_cat=111&_nc_ht=scontent.ftpe4-2.fna&oh=3c192fe625eaba1188744e73d94cd9f2&oe=5CCD0A5D);
+}
+.image8 {
+	background-image: url(https://scontent.ftpe4-2.fna.fbcdn.net/v/t1.0-9/18508_685730848198463_4901198271634219677_n.jpg?_nc_cat=109&_nc_ht=scontent.ftpe4-2.fna&oh=0a18a7ed41e9dc56e84622c2bc607b9c&oe=5CF78344);
+}
+.image9 {
+	background-image: url(https://scontent.ftpe4-1.fna.fbcdn.net/v/t1.0-9/20983_685710694867145_7965950299297688492_n.jpg?_nc_cat=106&_nc_ht=scontent.ftpe4-1.fna&oh=886a48e14cfede306379681266739871&oe=5CFEC698);
+}
+
+
+.image {
+	width: 100%;
+	height: 250px;
+	background-size: cover;
+	background-position: center; 
+}
+
